@@ -1,0 +1,18 @@
+﻿@{
+    if (HttpContext.Current.User.IsInRole("Customer"))
+    {
+        Layout = "~/Views/Shared/_LayoutCustomer.cshtml";
+    }
+    else if (HttpContext.Current.User.IsInRole("Gym"))
+    {
+        Layout = "~/Views/Shared/LayoutGym.cshtml";
+    }
+    else if (HttpContext.Current.User.IsInRole("Instructor"))
+    {
+        Layout = "~/Views/Shared/LayoutInstructor.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+}

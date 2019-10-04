@@ -1,0 +1,234 @@
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\GYM-APP.dll.config
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\GYM-APP.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\GYM-APP.pdb
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\csc.exe
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\csc.exe.config
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\csc.rsp
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\csi.exe
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\csi.exe.config
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\csi.rsp
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.AppContext.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Console.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.Claims.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\vbc.exe
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\vbc.exe.config
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\vbc.rsp
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Antlr3.Runtime.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\EntityFramework.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\EntityFramework.SqlServer.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Newtonsoft.Json.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Owin.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Helpers.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Mvc.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Optimization.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Razor.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.WebPages.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.WebPages.Razor.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\WebGrease.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Helpers.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Mvc.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Optimization.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.Razor.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.WebPages.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\System.Web.WebPages.Razor.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Newtonsoft.Json.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Antlr3.Runtime.pdb
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\EntityFramework.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\EntityFramework.SqlServer.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM-APP.csprojAssemblyReference.cache
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM-APP.csproj.CopyComplete
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM-APP.dll
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM-APP.pdb
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM_APP.Migrations.initmigration.resources
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM-APP.csproj.GenerateResource.cache
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM_APP.Migrations.workedonviews.resources
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM_APP.Migrations.UserRoles.resources
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM_APP.Migrations.databasefixed.resources
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM_APP.Migrations.fix3.resources
+C:\Users\gee6w\Desktop\GYM-APP\GYM-APP\obj\Debug\GYM_APP.Migrations.forth.resources
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM-APP.csprojAssemblyReference.cache
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\GYM-APP.dll.config
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\GYM-APP.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\GYM-APP.pdb
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\csc.exe
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\csc.exe.config
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\csc.rsp
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\csi.exe
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\csi.exe.config
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\csi.rsp
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.AppContext.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Console.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.IO.Compression.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Net.Http.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Net.Sockets.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.ValueTuple.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\vbc.exe
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\vbc.exe.config
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\vbc.rsp
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Antlr3.Runtime.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\DayPilot.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\DevExtreme.AspNet.Data.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\DevExtreme.AspNet.Mvc.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\EntityFramework.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\EntityFramework.SqlServer.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Newtonsoft.Json.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\nunit.framework.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Owin.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Net.Http.Formatting.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Helpers.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Http.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Http.WebHost.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Mvc.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Optimization.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Razor.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.WebPages.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.WebPages.Razor.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\WebGrease.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\DevExtreme.AspNet.Data.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\DevExtreme.AspNet.Mvc.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\EntityFramework.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\EntityFramework.SqlServer.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Newtonsoft.Json.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\nunit.framework.pdb
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\nunit.framework.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Net.Http.Formatting.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Http.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Http.WebHost.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Helpers.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Mvc.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Optimization.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.Razor.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.WebPages.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\System.Web.WebPages.Razor.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Antlr3.Runtime.pdb
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM-APP.csproj.CopyComplete
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM-APP.dll
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM-APP.pdb
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM_APP.Migrations.look.resources
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM-APP.csproj.GenerateResource.cache
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM_APP.Migrations.looploop.resources
+C:\Users\gee6w\Desktop\Backup Project folder\CAPSTONE BACKUP\GYM-APP\obj\Debug\GYM_APP.Migrations.addword.resources
